@@ -19,5 +19,3 @@ const App = () => {
 
 // Take this component's and put on the page (in the DOM)
 ReactDOM.render(<App />,document.querySelector('.container'));
-ReactDOM.render(<App />,document.querySelector('.container'));
-ReactDOM.render(<App />,document.querySelector('.container'));
